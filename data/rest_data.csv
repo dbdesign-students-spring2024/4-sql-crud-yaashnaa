@@ -1,0 +1,1001 @@
+restaurant_id,rest_name,category ,price_tier,neighborhood,opening_hours,average_rating,good_for_kids
+1,varius integer,French,expensive,staten_island,3:54 AM,3,false
+2,congue eget,Korean,cheap,staten_island,3:19 PM,3,true
+3,tellus nulla,Greek,expensive,bronx,3:29 AM,2,false
+4,id pretium iaculis,Italian,medium,brooklyn,3:19 AM,1,true
+5,mattis,African,medium,manhattan,12:15 AM,1,true
+6,metus sapien,French,medium,staten_island,11:49 PM,5,false
+7,integer aliquet massa,Indian,expensive,manhattan,5:21 PM,4,true
+8,est,Greek,expensive,bronx,7:10 PM,4,true
+9,magna bibendum imperdiet,Vietnamese,medium,brooklyn,9:39 PM,1,true
+10,accumsan tortor,Thai,cheap,bronx,8:05 AM,3,true
+11,primis,Caribbean,medium,bronx,8:37 PM,3,true
+12,luctus cum,Vegan,expensive,staten_island,1:38 PM,1,false
+13,in,Caribbean,expensive,bronx,7:27 PM,2,true
+14,cursus urna ut,Vietnamese,medium,brooklyn,12:42 AM,1,false
+15,lorem integer,Mediterranean,medium,bronx,2:08 AM,1,true
+16,a feugiat,Vegetarian,medium,queens,6:54 AM,1,true
+17,fermentum justo nec,Vegan,expensive,staten_island,5:32 PM,3,true
+18,integer,African,cheap,bronx,12:59 PM,1,false
+19,orci vehicula condimentum,American,expensive,staten_island,3:32 AM,4,true
+20,mi,Vietnamese,expensive,staten_island,4:41 AM,4,false
+21,tellus,Indian,medium,brooklyn,3:34 PM,1,true
+22,vestibulum,French,cheap,bronx,1:40 PM,4,true
+23,in faucibus orci,Vietnamese,expensive,bronx,3:26 AM,1,true
+24,ut,Brazilian,medium,brooklyn,2:37 AM,5,false
+25,curae,American,medium,brooklyn,8:49 PM,2,false
+26,blandit,African,expensive,staten_island,8:22 AM,4,false
+27,quis turpis sed,Spanish,medium,brooklyn,4:15 PM,3,true
+28,mauris non ligula,Thai,cheap,brooklyn,12:50 AM,3,false
+29,faucibus orci,Vegetarian,expensive,queens,7:26 AM,5,true
+30,ut nunc vestibulum,Mexican,medium,bronx,8:18 PM,5,true
+31,interdum venenatis turpis,Mexican,cheap,brooklyn,7:55 PM,2,true
+32,ultrices posuere,American,expensive,staten_island,1:58 PM,3,false
+33,id,Spanish,cheap,brooklyn,1:14 AM,4,true
+34,id nulla ultrices,Vegan,medium,queens,8:33 PM,1,false
+35,turpis,Mexican,expensive,staten_island,6:29 AM,1,false
+36,nisi,Vegetarian,expensive,staten_island,10:36 AM,5,true
+37,odio donec vitae,Brazilian,medium,brooklyn,11:07 AM,5,true
+38,lectus,Italian,cheap,bronx,6:41 AM,1,false
+39,curae duis,Japanese,expensive,queens,3:07 AM,3,false
+40,mi,Fusion,expensive,bronx,10:16 PM,3,true
+41,nunc vestibulum,Korean,cheap,manhattan,1:01 PM,2,true
+42,ante vivamus tortor,Vietnamese,cheap,brooklyn,9:18 PM,2,false
+43,nisl duis ac,Mediterranean,expensive,bronx,6:27 PM,2,true
+44,justo etiam,Spanish,medium,brooklyn,9:08 PM,3,false
+45,in porttitor pede,Chinese,cheap,brooklyn,12:40 AM,3,false
+46,ipsum ac,Korean,cheap,staten_island,1:31 AM,1,false
+47,et,American,cheap,manhattan,2:16 AM,2,false
+48,sit,Korean,expensive,manhattan,3:59 PM,3,true
+49,rutrum rutrum,Caribbean,cheap,queens,9:57 PM,4,false
+50,non,American,expensive,bronx,10:07 AM,4,true
+51,quis,French,medium,manhattan,8:39 AM,5,false
+52,eget nunc donec,Spanish,cheap,manhattan,7:34 PM,2,true
+53,nec nisi vulputate,Indian,medium,manhattan,7:22 AM,1,false
+54,in,Spanish,medium,brooklyn,2:25 AM,2,true
+55,aliquet,Mediterranean,expensive,bronx,5:42 PM,1,false
+56,ipsum primis,African,expensive,staten_island,4:45 PM,4,false
+57,mauris,Indian,cheap,bronx,6:21 AM,5,false
+58,maecenas leo,Caribbean,cheap,bronx,6:59 PM,5,false
+59,in,Japanese,cheap,staten_island,6:10 PM,5,false
+60,curabitur gravida,Indian,medium,manhattan,3:39 AM,4,false
+61,amet,Brazilian,medium,bronx,5:40 AM,1,true
+62,ac nulla,Thai,expensive,queens,9:05 AM,4,false
+63,vestibulum ante,Caribbean,medium,manhattan,2:56 PM,1,true
+64,nibh ligula nec,Vietnamese,cheap,manhattan,11:30 AM,3,false
+65,amet justo,Korean,expensive,manhattan,1:33 AM,5,false
+66,nullam porttitor lacus,Vietnamese,medium,staten_island,5:12 PM,4,true
+67,blandit ultrices enim,French,cheap,bronx,3:51 AM,4,false
+68,adipiscing molestie,Fusion,cheap,bronx,6:32 PM,2,false
+69,nulla elit ac,Vegetarian,cheap,staten_island,12:46 PM,5,true
+70,ac,Middle Eastern,cheap,brooklyn,9:47 PM,1,false
+71,pellentesque quisque porta,French,medium,bronx,1:14 PM,2,false
+72,semper,Vegetarian,medium,manhattan,4:15 AM,5,false
+73,metus,Italian,medium,staten_island,9:23 AM,3,false
+74,quis turpis,Italian,cheap,bronx,2:51 PM,4,true
+75,sit amet consectetuer,Japanese,cheap,brooklyn,2:00 AM,2,false
+76,sed interdum,Caribbean,expensive,queens,11:30 PM,1,true
+77,adipiscing lorem vitae,Thai,cheap,manhattan,1:27 PM,1,true
+78,maecenas leo odio,American,expensive,manhattan,12:46 AM,2,true
+79,id,Vietnamese,cheap,manhattan,6:17 PM,4,true
+80,dolor morbi,Spanish,expensive,queens,10:16 PM,5,true
+81,fermentum justo,African,expensive,queens,6:56 PM,3,true
+82,odio elementum,Fusion,cheap,staten_island,2:32 PM,4,true
+83,eget eleifend luctus,Middle Eastern,cheap,queens,6:52 AM,3,false
+84,purus eu,Vietnamese,medium,manhattan,6:01 PM,5,false
+85,vulputate,Vegetarian,medium,queens,2:31 AM,4,true
+86,sit amet,Vegan,medium,queens,7:48 PM,4,true
+87,viverra diam vitae,Italian,medium,staten_island,5:00 AM,5,true
+88,vestibulum ac,Mexican,expensive,staten_island,3:42 PM,2,false
+89,amet eros,French,medium,staten_island,10:13 PM,3,false
+90,congue etiam,Spanish,medium,staten_island,4:06 PM,5,true
+91,mauris laoreet ut,Caribbean,expensive,staten_island,6:15 PM,5,false
+92,aliquam,Indian,expensive,staten_island,1:22 AM,2,false
+93,in hac,Fusion,cheap,staten_island,11:16 PM,4,false
+94,semper est,Mexican,expensive,manhattan,3:38 PM,4,false
+95,tristique fusce,Mediterranean,medium,queens,11:23 AM,2,true
+96,morbi quis,Middle Eastern,medium,staten_island,1:56 PM,3,true
+97,aliquam,Vietnamese,medium,queens,7:57 AM,2,false
+98,phasellus in felis,Vegetarian,cheap,bronx,5:40 PM,1,false
+99,quam turpis adipiscing,Middle Eastern,medium,staten_island,2:28 AM,5,false
+100,sed,African,cheap,staten_island,5:26 AM,1,false
+101,pellentesque at,Thai,expensive,manhattan,7:51 PM,1,false
+102,vehicula,Middle Eastern,medium,brooklyn,8:52 PM,3,false
+103,libero ut massa,Middle Eastern,expensive,brooklyn,9:22 PM,4,false
+104,leo maecenas,American,expensive,brooklyn,5:10 AM,4,true
+105,amet sem,Italian,medium,brooklyn,5:44 PM,5,true
+106,eget tempus vel,Mexican,cheap,brooklyn,12:59 AM,5,false
+107,mollis molestie lorem,Japanese,cheap,queens,7:43 AM,4,true
+108,justo aliquam,African,cheap,staten_island,4:38 AM,5,false
+109,vitae nisi nam,Vegetarian,expensive,manhattan,7:35 AM,1,true
+110,hendrerit at vulputate,Vegan,expensive,staten_island,6:37 AM,3,true
+111,odio justo,Greek,expensive,queens,9:12 AM,2,false
+112,eget,Brazilian,cheap,brooklyn,11:14 PM,5,false
+113,a suscipit,Thai,medium,queens,3:21 AM,4,false
+114,neque sapien placerat,Spanish,cheap,manhattan,4:22 AM,3,false
+115,id,Korean,expensive,queens,12:48 AM,1,false
+116,duis at,Caribbean,cheap,staten_island,3:46 PM,1,false
+117,vehicula condimentum,Greek,medium,staten_island,4:01 PM,2,false
+118,potenti nullam porttitor,Greek,expensive,queens,11:18 PM,3,true
+119,phasellus id,Vietnamese,medium,queens,9:01 AM,5,true
+120,vestibulum sagittis sapien,Vietnamese,cheap,brooklyn,5:42 PM,3,true
+121,amet consectetuer adipiscing,African,expensive,queens,1:41 AM,1,true
+122,in,Italian,cheap,bronx,6:49 PM,5,true
+123,cursus urna,Japanese,medium,bronx,6:14 AM,4,false
+124,luctus et ultrices,Vietnamese,medium,staten_island,7:33 AM,1,true
+125,consectetuer adipiscing elit,Italian,cheap,staten_island,7:09 PM,4,true
+126,sit amet,Vegan,cheap,staten_island,4:24 AM,1,true
+127,a suscipit nulla,Thai,medium,brooklyn,10:37 PM,3,true
+128,dictumst aliquam,Vietnamese,expensive,manhattan,7:15 PM,1,false
+129,mauris non,Indian,medium,brooklyn,12:09 PM,1,true
+130,risus,Caribbean,medium,bronx,11:38 PM,3,false
+131,nulla,French,cheap,queens,1:43 AM,3,false
+132,condimentum id luctus,Indian,expensive,manhattan,10:43 AM,3,false
+133,amet,Korean,cheap,brooklyn,10:35 PM,4,false
+134,amet eros suspendisse,Spanish,medium,queens,3:35 AM,1,true
+135,nulla,Middle Eastern,expensive,queens,12:42 PM,5,true
+136,et,Italian,cheap,bronx,10:15 AM,5,true
+137,orci nullam molestie,Korean,medium,manhattan,1:18 PM,2,false
+138,volutpat dui,Vietnamese,expensive,brooklyn,10:14 AM,1,true
+139,id pretium iaculis,Indian,cheap,brooklyn,7:37 PM,5,false
+140,eu,Italian,medium,bronx,10:39 AM,1,false
+141,dui luctus,Middle Eastern,cheap,queens,9:56 PM,5,true
+142,tellus in,Mexican,medium,queens,11:14 AM,5,false
+143,parturient montes,Vietnamese,cheap,staten_island,9:52 PM,2,true
+144,nam,Italian,cheap,bronx,6:08 PM,5,true
+145,blandit ultrices enim,Korean,medium,bronx,10:08 PM,5,true
+146,convallis duis consequat,Spanish,cheap,brooklyn,9:56 PM,3,false
+147,luctus,Korean,medium,brooklyn,1:56 AM,1,false
+148,dictumst aliquam,French,cheap,manhattan,1:17 AM,1,true
+149,accumsan tortor quis,Middle Eastern,medium,staten_island,6:46 PM,3,false
+150,tempor turpis nec,Brazilian,expensive,queens,8:55 PM,2,false
+151,tristique,Middle Eastern,cheap,manhattan,12:09 AM,4,true
+152,pulvinar,Spanish,cheap,queens,2:59 AM,1,false
+153,non mi integer,Japanese,medium,staten_island,6:39 AM,5,false
+154,justo,Brazilian,expensive,brooklyn,6:58 PM,4,true
+155,integer non velit,Fusion,medium,staten_island,1:03 PM,5,false
+156,porttitor lacus,Spanish,expensive,brooklyn,10:28 AM,3,false
+157,viverra,Spanish,medium,brooklyn,3:31 AM,3,true
+158,pellentesque at,Caribbean,cheap,brooklyn,3:43 AM,5,false
+159,donec ut dolor,Greek,expensive,queens,10:52 PM,2,false
+160,vestibulum,Chinese,medium,staten_island,8:02 PM,3,true
+161,nec dui luctus,Fusion,cheap,manhattan,6:38 AM,3,false
+162,primis,Spanish,expensive,queens,9:43 PM,3,true
+163,sed augue aliquam,Italian,cheap,staten_island,12:29 PM,3,false
+164,tortor eu pede,Mediterranean,cheap,queens,2:20 AM,2,false
+165,tempus,Vietnamese,medium,staten_island,6:29 PM,1,true
+166,vel lectus in,Middle Eastern,medium,bronx,4:59 AM,4,true
+167,nibh,Spanish,cheap,staten_island,10:47 PM,5,true
+168,turpis,Middle Eastern,expensive,queens,9:37 PM,2,true
+169,mus,Greek,cheap,bronx,6:19 AM,5,false
+170,sapien quis libero,Indian,medium,manhattan,9:42 PM,5,false
+171,proin eu,Korean,cheap,manhattan,10:17 AM,1,false
+172,aliquam,Chinese,medium,queens,3:33 AM,4,false
+173,pede morbi porttitor,American,medium,staten_island,11:02 PM,2,true
+174,mattis egestas metus,African,cheap,brooklyn,1:23 AM,2,true
+175,lectus suspendisse potenti,Chinese,expensive,brooklyn,8:48 PM,4,false
+176,accumsan,French,cheap,manhattan,5:46 AM,1,false
+177,lorem,Vegetarian,medium,bronx,5:19 PM,5,true
+178,amet turpis elementum,Japanese,cheap,staten_island,8:51 PM,4,true
+179,ac enim in,Mediterranean,cheap,brooklyn,3:45 AM,1,false
+180,sapien,Caribbean,cheap,queens,10:05 PM,3,true
+181,vivamus,Korean,cheap,staten_island,8:10 PM,5,true
+182,convallis nunc,Middle Eastern,expensive,staten_island,3:32 PM,4,true
+183,viverra diam,Mexican,cheap,queens,4:46 PM,2,false
+184,vel lectus in,Thai,medium,staten_island,2:28 AM,5,false
+185,neque,Italian,expensive,manhattan,7:53 AM,5,true
+186,lorem quisque,Vegetarian,cheap,manhattan,12:30 AM,2,true
+187,nulla,African,expensive,queens,8:52 AM,5,true
+188,consectetuer adipiscing elit,Vegetarian,cheap,queens,6:29 AM,4,true
+189,ac,Japanese,cheap,brooklyn,6:56 PM,2,false
+190,lacus curabitur at,Vietnamese,medium,queens,9:04 AM,4,true
+191,eget rutrum at,Japanese,cheap,brooklyn,8:13 AM,2,true
+192,non,Indian,medium,queens,6:28 PM,5,false
+193,sem,Middle Eastern,cheap,manhattan,10:52 PM,3,false
+194,diam,Mexican,medium,manhattan,7:28 PM,4,false
+195,luctus cum,Mediterranean,cheap,staten_island,7:09 AM,2,false
+196,sed ante,Brazilian,cheap,bronx,10:49 PM,5,false
+197,pede,African,expensive,staten_island,11:58 AM,5,true
+198,rutrum ac,Vegetarian,cheap,staten_island,2:27 AM,2,false
+199,sed,Vegetarian,cheap,staten_island,10:32 AM,2,false
+200,neque,Greek,expensive,queens,5:45 AM,4,true
+201,id ligula suspendisse,Mediterranean,medium,bronx,2:21 AM,2,true
+202,massa volutpat,Middle Eastern,expensive,brooklyn,9:37 PM,5,true
+203,quisque ut,Chinese,cheap,bronx,6:45 AM,1,true
+204,varius,Italian,medium,manhattan,5:25 AM,3,false
+205,morbi sem mauris,Korean,cheap,queens,2:47 AM,4,true
+206,nunc viverra dapibus,Greek,expensive,queens,2:42 PM,3,false
+207,egestas metus,Caribbean,cheap,queens,11:07 PM,1,true
+208,pellentesque eget,Italian,medium,brooklyn,12:49 AM,3,true
+209,in,Japanese,expensive,staten_island,1:41 AM,2,true
+210,dui,American,cheap,staten_island,7:05 PM,2,false
+211,ultrices,Japanese,cheap,manhattan,2:11 AM,5,true
+212,lacinia,Korean,expensive,bronx,10:15 PM,5,true
+213,praesent blandit,Fusion,expensive,brooklyn,4:32 PM,3,false
+214,id,Brazilian,medium,staten_island,5:42 PM,2,false
+215,sapien varius ut,Indian,cheap,bronx,6:08 AM,3,false
+216,lacinia,Korean,cheap,brooklyn,1:41 AM,2,true
+217,sagittis sapien cum,Japanese,expensive,staten_island,9:31 PM,4,false
+218,venenatis non sodales,Vietnamese,medium,brooklyn,6:26 PM,5,true
+219,donec semper sapien,Italian,cheap,staten_island,4:52 AM,2,true
+220,massa id,Greek,medium,queens,12:37 AM,3,false
+221,nulla,Vegetarian,medium,manhattan,1:14 AM,4,true
+222,ipsum,Brazilian,medium,manhattan,11:13 PM,1,false
+223,sit amet consectetuer,French,expensive,queens,1:06 AM,3,true
+224,sit amet,Brazilian,expensive,brooklyn,3:37 AM,1,true
+225,adipiscing lorem vitae,Mexican,cheap,staten_island,5:34 AM,2,false
+226,tempus,Mediterranean,expensive,manhattan,2:38 AM,3,false
+227,pellentesque ultrices,American,cheap,bronx,9:27 AM,1,false
+228,sapien a,Mediterranean,cheap,brooklyn,10:43 AM,1,true
+229,eu mi,Middle Eastern,medium,brooklyn,10:24 AM,4,true
+230,ut,Vegan,expensive,manhattan,6:37 PM,1,true
+231,nunc vestibulum,American,expensive,queens,6:55 AM,5,true
+232,metus,Spanish,expensive,manhattan,3:30 AM,5,true
+233,pellentesque volutpat dui,Japanese,cheap,manhattan,4:45 AM,1,false
+234,tempor convallis nulla,American,expensive,bronx,6:21 AM,5,true
+235,nam tristique tortor,Middle Eastern,expensive,manhattan,9:31 AM,2,false
+236,eu nibh,French,cheap,brooklyn,2:33 AM,5,true
+237,ultricies,French,medium,brooklyn,3:54 PM,3,true
+238,nam nulla,Middle Eastern,medium,brooklyn,1:07 AM,5,false
+239,tortor eu,Mexican,cheap,queens,10:38 PM,1,true
+240,nulla suspendisse,Vegetarian,expensive,manhattan,11:17 AM,3,true
+241,aliquet at,Greek,medium,manhattan,7:30 AM,3,false
+242,in magna,Indian,cheap,staten_island,10:41 AM,1,false
+243,neque sapien,Mediterranean,expensive,staten_island,12:41 PM,2,true
+244,interdum,Vegetarian,medium,brooklyn,4:30 PM,5,true
+245,dapibus,Vegan,cheap,queens,7:29 PM,5,true
+246,ipsum dolor,Chinese,cheap,manhattan,3:25 AM,4,true
+247,varius integer ac,Fusion,expensive,manhattan,2:36 AM,5,true
+248,eget semper rutrum,Chinese,medium,staten_island,12:51 PM,5,false
+249,nulla pede ullamcorper,French,cheap,bronx,9:29 PM,3,true
+250,sit,Chinese,medium,bronx,6:40 PM,2,true
+251,ligula pellentesque ultrices,Thai,expensive,manhattan,2:39 AM,1,false
+252,dis parturient montes,African,expensive,manhattan,3:41 AM,5,true
+253,rhoncus,Korean,medium,manhattan,10:18 PM,4,true
+254,proin at,African,medium,manhattan,1:57 AM,5,false
+255,vel,Greek,cheap,staten_island,8:49 AM,4,true
+256,commodo placerat,Vietnamese,expensive,manhattan,10:55 AM,4,true
+257,integer ac,Vegan,expensive,staten_island,3:38 PM,2,true
+258,id ligula suspendisse,Mediterranean,cheap,manhattan,7:25 PM,4,true
+259,est,Vegetarian,medium,bronx,10:16 AM,2,true
+260,quis,Mediterranean,medium,bronx,12:42 PM,1,false
+261,rutrum rutrum,Mexican,medium,manhattan,11:28 PM,3,true
+262,faucibus orci,American,cheap,staten_island,7:05 AM,2,true
+263,mus,Vietnamese,expensive,staten_island,12:09 PM,4,true
+264,sit amet,Vegan,cheap,brooklyn,6:02 PM,3,false
+265,eleifend,Brazilian,expensive,manhattan,2:59 AM,3,false
+266,a nibh in,Brazilian,cheap,bronx,5:26 PM,3,false
+267,elit proin interdum,Mexican,expensive,manhattan,2:33 PM,1,true
+268,fusce,African,cheap,queens,10:12 AM,5,false
+269,neque,Caribbean,expensive,queens,3:03 AM,2,false
+270,luctus,Brazilian,cheap,bronx,3:31 AM,5,false
+271,lorem,Brazilian,expensive,bronx,8:10 AM,1,true
+272,vitae,Middle Eastern,cheap,manhattan,5:07 PM,4,false
+273,lorem,Mexican,cheap,manhattan,8:03 PM,4,false
+274,vestibulum proin eu,Italian,medium,manhattan,3:50 AM,1,true
+275,ipsum dolor,Japanese,medium,brooklyn,12:08 AM,2,false
+276,tristique tortor eu,Indian,expensive,bronx,5:29 PM,5,true
+277,quam suspendisse,Korean,cheap,queens,3:35 PM,5,false
+278,rutrum,Japanese,medium,queens,4:20 AM,5,true
+279,ipsum primis,American,medium,staten_island,5:31 AM,3,true
+280,vivamus,Mediterranean,medium,manhattan,8:00 PM,3,false
+281,sit amet nunc,French,medium,staten_island,8:43 AM,5,true
+282,vestibulum sed magna,Brazilian,medium,brooklyn,10:40 PM,3,false
+283,in,African,medium,manhattan,6:38 PM,4,false
+284,sit,Chinese,cheap,bronx,7:36 AM,4,false
+285,ac leo pellentesque,French,cheap,bronx,12:08 AM,4,true
+286,tincidunt,Italian,expensive,manhattan,4:11 PM,4,true
+287,mus etiam vel,Chinese,cheap,brooklyn,8:30 PM,4,false
+288,est,Chinese,medium,staten_island,1:02 AM,1,false
+289,morbi non quam,Vegan,medium,manhattan,11:15 AM,2,true
+290,erat tortor,Chinese,cheap,queens,2:41 AM,3,false
+291,venenatis,Korean,medium,queens,5:28 AM,3,true
+292,luctus cum,Brazilian,medium,queens,4:45 PM,3,false
+293,faucibus orci luctus,African,expensive,manhattan,3:58 PM,4,true
+294,lacus at turpis,Middle Eastern,cheap,bronx,10:31 PM,4,false
+295,pede,Caribbean,expensive,staten_island,9:25 AM,1,true
+296,in congue etiam,American,medium,staten_island,9:30 AM,5,false
+297,vehicula condimentum,Mexican,cheap,brooklyn,3:06 PM,2,true
+298,rutrum neque,Spanish,medium,manhattan,8:04 PM,2,false
+299,pede,Korean,medium,brooklyn,7:29 PM,3,true
+300,elementum in,Italian,expensive,brooklyn,1:35 AM,1,false
+301,non lectus,African,cheap,bronx,7:50 PM,3,false
+302,sapien dignissim vestibulum,Korean,cheap,manhattan,3:10 PM,1,true
+303,suspendisse ornare consequat,Korean,cheap,bronx,8:57 AM,5,true
+304,nisi eu,Thai,cheap,queens,11:23 PM,3,true
+305,augue luctus,Indian,cheap,queens,12:50 PM,3,true
+306,dui,American,cheap,manhattan,5:28 PM,2,true
+307,nullam molestie nibh,Brazilian,expensive,bronx,10:09 AM,2,false
+308,at,Mexican,cheap,staten_island,9:49 AM,2,true
+309,et ultrices,Chinese,medium,staten_island,2:10 PM,3,false
+310,sit amet,Brazilian,expensive,manhattan,6:23 AM,4,false
+311,gravida nisi,Japanese,expensive,bronx,12:32 PM,2,true
+312,ante vivamus,Caribbean,cheap,staten_island,8:06 AM,1,false
+313,curabitur in,Japanese,expensive,brooklyn,2:51 PM,2,true
+314,erat fermentum,Caribbean,expensive,manhattan,7:54 PM,4,false
+315,augue,Thai,cheap,brooklyn,9:48 AM,5,false
+316,montes nascetur,Brazilian,medium,bronx,7:05 PM,2,true
+317,habitasse,Japanese,expensive,brooklyn,2:35 AM,5,false
+318,nisl,American,cheap,staten_island,12:31 AM,3,true
+319,volutpat convallis,Italian,medium,queens,6:19 AM,1,true
+320,duis at velit,American,medium,queens,3:27 PM,3,true
+321,eu est congue,Spanish,medium,staten_island,1:48 AM,4,true
+322,pede malesuada,Greek,expensive,bronx,11:14 PM,2,true
+323,amet,Caribbean,medium,manhattan,11:10 PM,1,false
+324,aliquam,Italian,cheap,brooklyn,4:49 PM,4,false
+325,donec pharetra magna,Thai,cheap,bronx,12:50 PM,4,true
+326,vestibulum,Brazilian,medium,bronx,4:20 AM,1,true
+327,sit amet,Vietnamese,cheap,brooklyn,6:39 PM,1,false
+328,non quam,French,expensive,brooklyn,3:51 AM,1,false
+329,ac,Spanish,expensive,brooklyn,2:25 AM,3,true
+330,augue luctus,Fusion,cheap,queens,10:56 AM,2,false
+331,interdum venenatis,Thai,expensive,bronx,11:23 AM,5,false
+332,sed vel,Brazilian,expensive,manhattan,1:12 PM,5,true
+333,nulla pede,Brazilian,cheap,bronx,6:56 PM,1,true
+334,hac,Caribbean,medium,bronx,5:34 AM,5,false
+335,justo lacinia eget,Caribbean,cheap,brooklyn,7:38 PM,1,false
+336,nulla,Brazilian,expensive,queens,2:21 AM,1,false
+337,mi,Mediterranean,cheap,staten_island,7:54 AM,3,false
+338,ipsum praesent blandit,Greek,medium,queens,7:14 AM,4,true
+339,nascetur ridiculus mus,Caribbean,medium,bronx,4:55 AM,3,false
+340,platea dictumst,Vietnamese,medium,manhattan,11:28 AM,3,false
+341,nulla mollis molestie,Italian,medium,manhattan,2:19 AM,4,false
+342,eu tincidunt,Vegetarian,medium,queens,6:56 PM,3,true
+343,est,Korean,expensive,manhattan,10:17 PM,3,false
+344,consequat,Italian,cheap,queens,5:49 PM,2,true
+345,donec posuere,African,expensive,queens,7:59 AM,4,true
+346,dictumst morbi vestibulum,Japanese,medium,queens,6:54 PM,2,true
+347,at velit vivamus,Thai,medium,brooklyn,4:10 AM,5,true
+348,duis faucibus,Greek,cheap,bronx,9:09 AM,3,true
+349,interdum mauris,American,medium,staten_island,11:50 PM,4,false
+350,bibendum imperdiet nullam,Greek,cheap,bronx,11:52 PM,3,false
+351,suspendisse potenti,French,expensive,manhattan,2:39 PM,5,true
+352,justo,Spanish,cheap,manhattan,4:54 AM,4,true
+353,pede,Italian,expensive,manhattan,2:04 PM,4,true
+354,elementum,Fusion,medium,manhattan,2:44 PM,1,true
+355,accumsan odio,Vietnamese,expensive,manhattan,9:35 PM,3,true
+356,vel,Thai,cheap,staten_island,11:55 PM,4,false
+357,magna,Middle Eastern,medium,staten_island,5:50 PM,1,true
+358,sit,Italian,cheap,brooklyn,9:06 AM,5,true
+359,eget,Korean,cheap,brooklyn,7:19 AM,5,true
+360,magna,American,medium,bronx,1:50 AM,2,true
+361,cursus,Thai,medium,queens,7:30 AM,5,false
+362,viverra,Italian,cheap,manhattan,8:41 AM,1,false
+363,hac habitasse platea,Japanese,expensive,bronx,7:20 PM,3,false
+364,nam congue,Korean,expensive,queens,10:12 AM,1,true
+365,mus vivamus vestibulum,Thai,cheap,manhattan,1:11 AM,2,true
+366,etiam,Italian,cheap,queens,10:10 AM,1,false
+367,viverra,Fusion,expensive,queens,9:28 PM,5,false
+368,nisl duis,Mediterranean,medium,queens,6:06 PM,4,true
+369,platea dictumst,Indian,medium,manhattan,2:15 PM,1,true
+370,lacinia,Middle Eastern,medium,queens,11:54 PM,2,false
+371,felis ut,Spanish,medium,manhattan,5:49 PM,5,false
+372,diam vitae,African,expensive,staten_island,8:47 AM,4,false
+373,massa id,Vegetarian,expensive,brooklyn,10:40 AM,4,false
+374,turpis donec posuere,Vegan,medium,queens,4:48 AM,4,true
+375,ut,Indian,medium,manhattan,8:13 PM,1,false
+376,orci,French,medium,brooklyn,7:21 PM,5,true
+377,vulputate nonummy maecenas,Vegan,medium,queens,5:22 AM,2,false
+378,ut,Thai,cheap,brooklyn,2:22 AM,5,true
+379,tincidunt in,Middle Eastern,cheap,staten_island,10:52 AM,1,false
+380,vitae nisl aenean,American,expensive,queens,7:25 AM,3,true
+381,quis lectus,Vietnamese,cheap,bronx,3:00 AM,3,false
+382,nam,Fusion,cheap,queens,8:40 AM,2,true
+383,sem,American,medium,bronx,3:10 AM,2,false
+384,sapien,Vegan,expensive,manhattan,8:32 AM,2,false
+385,in tempor turpis,Greek,expensive,bronx,10:05 AM,2,true
+386,magna ac,Middle Eastern,expensive,manhattan,12:09 PM,5,false
+387,praesent id,Chinese,medium,bronx,1:27 PM,4,false
+388,amet lobortis sapien,Japanese,cheap,queens,9:34 AM,2,false
+389,nulla ac enim,Fusion,cheap,bronx,9:15 PM,4,true
+390,vitae quam suspendisse,Spanish,cheap,bronx,9:24 PM,1,false
+391,mattis,Greek,expensive,bronx,6:47 PM,1,true
+392,sed interdum,Caribbean,expensive,bronx,12:53 PM,1,false
+393,consequat morbi,Mexican,expensive,manhattan,1:55 PM,5,false
+394,pretium,Thai,medium,staten_island,2:15 AM,5,false
+395,diam,French,cheap,queens,11:46 AM,4,true
+396,proin interdum mauris,French,cheap,manhattan,3:45 AM,5,false
+397,libero quis,Italian,medium,brooklyn,9:21 PM,3,false
+398,purus phasellus in,Caribbean,expensive,queens,5:41 AM,5,false
+399,platea,Chinese,medium,brooklyn,7:04 AM,4,true
+400,proin,Vegan,expensive,bronx,5:40 PM,5,false
+401,ante vestibulum,Chinese,medium,brooklyn,2:58 AM,1,false
+402,integer,Middle Eastern,expensive,manhattan,12:15 PM,5,false
+403,odio justo sollicitudin,Spanish,medium,bronx,6:59 AM,1,true
+404,nam nulla,Vegetarian,medium,manhattan,1:30 PM,3,false
+405,fermentum,Brazilian,expensive,staten_island,12:51 AM,5,false
+406,platea dictumst morbi,Mexican,expensive,queens,3:08 PM,1,true
+407,hac,Middle Eastern,medium,manhattan,7:14 AM,4,true
+408,a libero,Spanish,expensive,bronx,4:33 PM,4,false
+409,gravida sem,Middle Eastern,medium,staten_island,7:42 AM,2,true
+410,pretium nisl,Korean,expensive,staten_island,1:54 PM,5,true
+411,eros,Vietnamese,medium,manhattan,6:49 AM,1,true
+412,in,Spanish,expensive,brooklyn,12:06 PM,4,true
+413,metus sapien ut,French,cheap,brooklyn,4:50 AM,4,true
+414,sit amet cursus,Vietnamese,cheap,brooklyn,10:57 AM,3,true
+415,mauris,Spanish,expensive,staten_island,12:48 AM,3,false
+416,eu mi nulla,Greek,cheap,brooklyn,8:41 PM,4,false
+417,eu mi,French,cheap,staten_island,1:16 AM,5,true
+418,ultrices posuere,Mexican,medium,manhattan,2:27 AM,2,true
+419,lobortis,Chinese,cheap,staten_island,8:11 PM,2,false
+420,id,Mexican,medium,staten_island,7:54 AM,3,true
+421,congue diam id,Spanish,medium,queens,2:32 AM,1,true
+422,ut mauris eget,Mediterranean,expensive,brooklyn,11:53 PM,2,false
+423,curabitur gravida,Vegetarian,cheap,bronx,4:09 PM,1,false
+424,convallis,Korean,expensive,brooklyn,10:16 AM,2,true
+425,curabitur in,Chinese,medium,bronx,1:21 AM,3,false
+426,quis orci,Middle Eastern,medium,bronx,12:46 AM,4,false
+427,dapibus duis,Korean,medium,staten_island,2:09 AM,2,false
+428,nunc viverra,Chinese,expensive,manhattan,7:02 AM,1,false
+429,justo in hac,Vietnamese,expensive,manhattan,8:38 AM,1,true
+430,porttitor lorem id,Italian,expensive,brooklyn,4:07 AM,5,false
+431,suspendisse,Spanish,cheap,bronx,6:19 PM,3,true
+432,turpis eget,Vegan,expensive,bronx,1:42 PM,5,false
+433,curabitur,Chinese,cheap,bronx,6:33 PM,3,false
+434,scelerisque,Vegan,cheap,manhattan,4:37 AM,3,true
+435,justo aliquam quis,Vegan,expensive,staten_island,2:46 PM,4,false
+436,in lectus,African,cheap,staten_island,2:33 PM,5,false
+437,metus,Japanese,expensive,brooklyn,1:07 AM,4,false
+438,ut odio cras,Japanese,cheap,queens,5:36 AM,5,true
+439,commodo vulputate,Indian,expensive,manhattan,2:23 AM,4,false
+440,orci,Mexican,medium,manhattan,8:47 PM,2,true
+441,ultrices phasellus id,Mediterranean,cheap,bronx,8:24 AM,1,false
+442,purus eu magna,Indian,cheap,queens,9:55 AM,1,true
+443,cras in,Vegetarian,expensive,brooklyn,3:50 AM,4,false
+444,turpis donec,Middle Eastern,expensive,brooklyn,3:11 PM,5,true
+445,ultricies eu,Caribbean,medium,staten_island,11:06 AM,2,true
+446,pede morbi,Vegan,cheap,bronx,8:35 AM,2,true
+447,magna at,Italian,expensive,bronx,3:53 PM,1,false
+448,sed augue aliquam,Vegan,expensive,staten_island,12:59 AM,5,true
+449,dui luctus,Mexican,cheap,brooklyn,5:58 PM,1,true
+450,suscipit nulla elit,Vietnamese,cheap,staten_island,8:46 PM,1,true
+451,libero quis,Mexican,cheap,queens,11:37 PM,1,false
+452,cubilia,French,cheap,manhattan,3:23 AM,2,true
+453,nibh in quis,Vegetarian,medium,staten_island,1:27 PM,1,false
+454,odio cras mi,Middle Eastern,expensive,queens,5:23 AM,4,true
+455,libero rutrum ac,Vegan,expensive,staten_island,9:53 PM,4,false
+456,lectus,Greek,expensive,staten_island,2:08 AM,3,true
+457,magna at nunc,Thai,cheap,bronx,12:03 AM,4,true
+458,blandit,American,cheap,brooklyn,5:27 AM,5,false
+459,tortor duis,Greek,medium,staten_island,3:13 AM,2,false
+460,neque duis,American,expensive,brooklyn,9:49 PM,3,false
+461,curae nulla dapibus,Korean,medium,staten_island,4:07 AM,1,false
+462,blandit,Vietnamese,medium,brooklyn,4:14 AM,3,false
+463,justo aliquam quis,Japanese,cheap,brooklyn,12:54 AM,3,false
+464,aliquam erat volutpat,African,expensive,bronx,9:21 PM,3,true
+465,felis,Mediterranean,medium,queens,7:54 PM,5,true
+466,curae duis faucibus,Mexican,expensive,brooklyn,3:10 AM,1,false
+467,congue etiam,Korean,expensive,manhattan,3:10 AM,2,true
+468,ultrices vel,French,medium,queens,11:31 PM,1,false
+469,dis parturient,Korean,expensive,staten_island,11:18 PM,4,false
+470,in faucibus,Brazilian,medium,bronx,5:54 AM,2,true
+471,at,Caribbean,expensive,brooklyn,2:08 AM,5,true
+472,vestibulum,Spanish,cheap,brooklyn,7:44 AM,5,false
+473,vel lectus,Chinese,medium,bronx,4:35 AM,2,false
+474,in,Thai,medium,brooklyn,7:29 AM,5,false
+475,ut odio,Vietnamese,medium,bronx,7:50 AM,4,true
+476,malesuada in,Italian,expensive,brooklyn,5:57 PM,3,true
+477,maecenas,Thai,cheap,queens,11:07 PM,5,false
+478,amet sapien,Middle Eastern,cheap,manhattan,6:27 AM,4,true
+479,eu massa donec,Fusion,expensive,queens,6:36 AM,5,true
+480,ipsum,Vegetarian,expensive,queens,3:24 AM,1,true
+481,eget eleifend,Vegan,medium,brooklyn,11:28 PM,4,true
+482,primis in,Indian,expensive,queens,10:05 PM,5,true
+483,turpis sed,Mexican,cheap,bronx,9:43 PM,5,true
+484,augue,Thai,medium,bronx,1:34 AM,1,false
+485,nulla eget,Thai,cheap,queens,4:32 PM,2,true
+486,in quis,African,cheap,brooklyn,2:23 PM,3,true
+487,placerat,Middle Eastern,expensive,manhattan,11:57 AM,5,true
+488,nibh quisque id,Mediterranean,expensive,brooklyn,2:20 AM,2,false
+489,ipsum,Spanish,medium,manhattan,2:00 AM,3,false
+490,platea,Greek,expensive,queens,9:35 AM,1,false
+491,condimentum curabitur in,Vegetarian,medium,manhattan,8:58 AM,1,false
+492,faucibus,Middle Eastern,medium,staten_island,3:42 AM,3,true
+493,curabitur,Greek,cheap,queens,1:27 PM,2,true
+494,placerat,American,medium,manhattan,5:48 AM,3,false
+495,pede,Spanish,cheap,queens,5:37 AM,4,true
+496,nisi eu,Vietnamese,cheap,bronx,11:26 PM,1,false
+497,nulla nisl nunc,Vietnamese,medium,brooklyn,1:11 PM,2,true
+498,vestibulum sed magna,French,expensive,bronx,9:38 PM,5,true
+499,ut,Mediterranean,medium,brooklyn,4:56 AM,5,false
+500,eget rutrum at,Spanish,cheap,brooklyn,11:57 AM,4,false
+501,ut,Vegetarian,medium,manhattan,6:45 AM,2,false
+502,tincidunt ante vel,Japanese,expensive,queens,10:23 AM,3,true
+503,consequat nulla,African,cheap,queens,1:32 AM,2,true
+504,mauris viverra diam,Spanish,medium,manhattan,12:41 AM,5,true
+505,nisl venenatis,Italian,cheap,manhattan,1:11 AM,4,true
+506,ante vel,Mediterranean,expensive,manhattan,8:53 PM,4,false
+507,nunc purus phasellus,Vietnamese,medium,queens,7:06 AM,3,true
+508,elit,Mediterranean,expensive,queens,12:31 AM,4,true
+509,pellentesque viverra pede,American,cheap,bronx,4:57 PM,4,true
+510,amet cursus,Mediterranean,medium,staten_island,8:39 PM,2,true
+511,magna,Greek,cheap,bronx,3:01 PM,4,true
+512,rutrum nulla tellus,Italian,cheap,brooklyn,11:44 PM,5,true
+513,nunc,Mexican,cheap,brooklyn,10:21 AM,1,true
+514,consequat lectus in,American,cheap,bronx,5:00 PM,5,false
+515,orci eget,Greek,cheap,queens,11:20 AM,1,false
+516,erat quisque,American,cheap,bronx,2:10 PM,2,false
+517,leo rhoncus,Vietnamese,expensive,brooklyn,5:11 PM,1,true
+518,sit amet consectetuer,Indian,cheap,staten_island,7:03 AM,3,false
+519,eget semper rutrum,Vegetarian,cheap,manhattan,8:15 PM,1,false
+520,nisi at,Korean,cheap,queens,2:55 PM,5,true
+521,sodales scelerisque,French,expensive,queens,10:31 PM,5,false
+522,leo,Greek,cheap,brooklyn,3:27 PM,2,true
+523,justo eu,Mexican,medium,manhattan,4:12 AM,2,false
+524,amet,Fusion,medium,staten_island,3:41 PM,2,true
+525,at dolor quis,French,cheap,brooklyn,6:37 AM,3,false
+526,urna ut tellus,Vietnamese,expensive,bronx,7:16 AM,2,true
+527,turpis,Caribbean,expensive,staten_island,10:35 AM,5,true
+528,cras in purus,Fusion,medium,brooklyn,9:15 PM,1,false
+529,tincidunt eget,African,expensive,staten_island,7:54 PM,2,true
+530,magna,Caribbean,medium,queens,2:33 PM,1,true
+531,sapien,Thai,expensive,brooklyn,4:31 AM,3,false
+532,erat,Mexican,medium,brooklyn,11:13 AM,4,false
+533,viverra,Mexican,medium,brooklyn,3:55 AM,1,true
+534,imperdiet,Caribbean,expensive,bronx,1:43 AM,4,false
+535,rutrum nulla tellus,Vegetarian,medium,staten_island,9:07 PM,4,true
+536,in,American,expensive,brooklyn,7:38 PM,2,false
+537,pede venenatis,Thai,expensive,queens,1:06 PM,3,false
+538,posuere cubilia,Mexican,medium,manhattan,4:18 PM,2,false
+539,ipsum,Vegan,medium,bronx,8:22 AM,1,false
+540,massa,Korean,expensive,staten_island,9:29 PM,4,false
+541,vestibulum ante,Vegan,cheap,brooklyn,5:45 AM,1,false
+542,vel sem,African,medium,bronx,11:34 PM,3,false
+543,enim sit amet,Chinese,expensive,staten_island,6:14 PM,4,false
+544,turpis,Korean,expensive,staten_island,8:03 AM,4,false
+545,donec,Vegetarian,medium,brooklyn,4:01 PM,4,false
+546,semper,Brazilian,expensive,queens,2:40 PM,5,false
+547,etiam vel,Vegetarian,medium,manhattan,10:01 PM,2,false
+548,tincidunt ante vel,Fusion,expensive,queens,7:17 PM,5,false
+549,volutpat dui,Thai,expensive,staten_island,2:09 AM,4,false
+550,ornare,Italian,medium,manhattan,7:22 AM,3,true
+551,mattis egestas metus,Mediterranean,expensive,staten_island,3:27 PM,2,false
+552,mauris ullamcorper purus,African,cheap,manhattan,5:15 AM,3,false
+553,et ultrices,Vietnamese,cheap,bronx,3:43 PM,5,true
+554,sapien non mi,Japanese,expensive,staten_island,7:48 PM,1,false
+555,magnis dis parturient,Chinese,expensive,brooklyn,8:54 PM,2,false
+556,etiam faucibus cursus,Spanish,cheap,bronx,11:40 PM,4,true
+557,nulla neque,Mediterranean,cheap,manhattan,4:04 PM,2,false
+558,pede,Italian,expensive,queens,7:42 AM,4,false
+559,leo maecenas pulvinar,Greek,expensive,bronx,8:29 PM,5,true
+560,etiam,Italian,expensive,brooklyn,12:15 PM,3,false
+561,in sagittis dui,Middle Eastern,expensive,manhattan,4:55 AM,2,false
+562,ultrices enim,Spanish,expensive,staten_island,6:18 AM,3,true
+563,vivamus,Vietnamese,expensive,staten_island,10:29 PM,3,true
+564,nulla elit,Indian,medium,bronx,5:22 PM,3,true
+565,lacinia aenean,Japanese,medium,manhattan,3:03 PM,3,false
+566,fusce posuere,Vietnamese,expensive,manhattan,2:51 PM,4,false
+567,accumsan odio,Greek,medium,brooklyn,6:11 AM,2,false
+568,natoque penatibus et,Japanese,medium,queens,1:00 AM,1,false
+569,hac,Brazilian,medium,manhattan,8:16 AM,3,false
+570,sapien placerat ante,Vietnamese,cheap,manhattan,1:50 AM,3,true
+571,eget eros,Japanese,cheap,queens,3:46 AM,1,false
+572,etiam justo,Mediterranean,cheap,manhattan,5:03 PM,5,false
+573,arcu libero rutrum,Vegan,cheap,brooklyn,8:31 AM,3,false
+574,tristique tortor eu,Italian,expensive,brooklyn,2:42 AM,1,true
+575,eu,Vietnamese,medium,brooklyn,6:05 AM,5,false
+576,ac est lacinia,African,medium,manhattan,3:23 AM,5,true
+577,ut,Brazilian,medium,manhattan,4:40 AM,2,false
+578,nec nisi,Greek,medium,queens,11:09 AM,3,false
+579,et magnis,Mexican,medium,bronx,1:32 AM,4,false
+580,luctus,Mexican,expensive,staten_island,5:54 PM,2,false
+581,odio,Vegan,expensive,bronx,9:43 PM,2,true
+582,proin leo odio,Mediterranean,cheap,bronx,10:18 AM,4,true
+583,ac,Chinese,medium,manhattan,9:47 AM,2,true
+584,eleifend luctus,Caribbean,expensive,queens,3:25 PM,3,false
+585,donec,Korean,medium,staten_island,11:48 AM,3,true
+586,donec,Brazilian,expensive,manhattan,8:05 PM,3,true
+587,turpis elementum,Vegan,medium,queens,7:17 AM,2,true
+588,sollicitudin,Fusion,cheap,queens,12:02 AM,4,true
+589,in,Korean,expensive,brooklyn,12:50 PM,5,true
+590,donec ut dolor,Korean,medium,staten_island,3:03 AM,5,true
+591,mi integer ac,Brazilian,cheap,bronx,9:19 PM,1,true
+592,nam congue risus,Greek,medium,queens,5:39 AM,3,true
+593,parturient,French,cheap,brooklyn,7:10 AM,4,false
+594,turpis,Mediterranean,medium,bronx,10:12 PM,5,true
+595,faucibus,Italian,expensive,staten_island,6:00 AM,2,false
+596,vestibulum ante,Fusion,medium,queens,12:39 AM,4,true
+597,nulla tellus in,Japanese,medium,staten_island,2:10 PM,1,false
+598,pulvinar,Greek,expensive,manhattan,5:14 PM,4,false
+599,pede posuere nonummy,Mediterranean,medium,staten_island,12:54 PM,4,false
+600,nulla tempus,Japanese,expensive,staten_island,1:29 AM,1,true
+601,donec posuere metus,Korean,expensive,queens,1:15 PM,5,true
+602,fusce posuere,Italian,medium,queens,5:48 AM,2,false
+603,lorem,Spanish,medium,staten_island,6:55 PM,1,true
+604,vulputate,Mexican,expensive,queens,8:28 AM,4,true
+605,ac,Spanish,cheap,manhattan,3:39 AM,4,true
+606,consectetuer adipiscing elit,African,cheap,brooklyn,2:34 PM,5,true
+607,lobortis convallis,Indian,expensive,manhattan,1:04 PM,1,false
+608,volutpat sapien,Vietnamese,cheap,manhattan,1:22 AM,3,true
+609,in faucibus,Spanish,expensive,brooklyn,7:02 AM,4,false
+610,nec sem duis,Chinese,medium,manhattan,10:40 AM,2,false
+611,sapien urna pretium,Vegan,cheap,queens,7:23 AM,2,true
+612,duis,Vegetarian,expensive,queens,1:05 PM,5,false
+613,duis faucibus,Mediterranean,cheap,bronx,8:02 AM,1,true
+614,massa id lobortis,Vegan,cheap,manhattan,4:20 PM,3,true
+615,blandit non,Thai,medium,manhattan,1:11 PM,2,true
+616,id nulla ultrices,Italian,expensive,brooklyn,4:00 AM,4,false
+617,vestibulum rutrum,Mediterranean,cheap,queens,11:39 PM,2,false
+618,odio,American,cheap,bronx,8:15 AM,2,false
+619,volutpat quam pede,Caribbean,expensive,brooklyn,1:28 AM,3,false
+620,aliquam,Vegan,cheap,manhattan,9:49 AM,4,true
+621,congue etiam justo,Mexican,cheap,queens,3:24 PM,4,true
+622,tortor eu,Fusion,medium,bronx,2:32 AM,1,true
+623,lacinia erat,Korean,expensive,queens,10:01 AM,4,false
+624,placerat praesent,American,expensive,staten_island,9:14 AM,2,false
+625,aliquam convallis,Indian,medium,bronx,12:06 PM,5,false
+626,eros viverra,French,cheap,staten_island,10:38 AM,2,true
+627,potenti cras in,Chinese,medium,staten_island,4:04 PM,4,false
+628,imperdiet nullam orci,Greek,expensive,brooklyn,5:32 AM,5,false
+629,primis in,African,medium,manhattan,8:05 PM,5,false
+630,porttitor,French,cheap,staten_island,4:03 PM,2,true
+631,tortor sollicitudin,Italian,medium,staten_island,1:02 PM,3,false
+632,in felis eu,Spanish,cheap,bronx,1:44 AM,3,false
+633,non velit nec,Spanish,medium,brooklyn,4:11 AM,3,true
+634,imperdiet sapien,Spanish,cheap,bronx,12:29 PM,1,true
+635,quisque ut erat,Middle Eastern,medium,manhattan,1:25 PM,5,false
+636,id sapien,Brazilian,expensive,brooklyn,6:11 AM,3,false
+637,in sagittis dui,Vegan,medium,manhattan,6:06 AM,4,false
+638,ipsum ac tellus,Vegetarian,expensive,bronx,7:42 AM,1,false
+639,nisl ut,Thai,expensive,staten_island,12:18 AM,4,true
+640,quisque,Indian,medium,bronx,9:01 AM,2,true
+641,lacus curabitur at,Mexican,medium,queens,11:20 AM,2,false
+642,mauris,Vietnamese,expensive,bronx,7:06 AM,4,false
+643,posuere cubilia,Spanish,expensive,queens,1:12 PM,1,false
+644,nec sem,Japanese,cheap,brooklyn,11:29 PM,3,false
+645,parturient montes,Chinese,medium,brooklyn,3:21 PM,4,false
+646,amet,Indian,expensive,queens,4:34 PM,1,true
+647,eleifend luctus ultricies,Greek,cheap,staten_island,7:10 AM,5,true
+648,molestie nibh in,Mediterranean,cheap,manhattan,1:37 AM,1,false
+649,non ligula pellentesque,Middle Eastern,cheap,brooklyn,7:45 AM,2,false
+650,ultricies eu,Middle Eastern,cheap,brooklyn,9:32 PM,4,false
+651,morbi,Brazilian,expensive,staten_island,6:51 PM,2,true
+652,interdum eu,Fusion,medium,bronx,7:59 AM,5,false
+653,blandit ultrices,Vietnamese,medium,bronx,8:23 AM,2,false
+654,ante vel,Japanese,cheap,bronx,7:00 AM,3,false
+655,quam,Spanish,expensive,brooklyn,6:12 PM,1,false
+656,ipsum primis,Fusion,expensive,staten_island,1:58 PM,2,false
+657,consequat,Greek,medium,brooklyn,8:11 AM,1,true
+658,at turpis a,Middle Eastern,medium,queens,12:08 AM,5,true
+659,non mauris morbi,Vietnamese,cheap,staten_island,11:00 AM,4,false
+660,tortor,Middle Eastern,cheap,brooklyn,5:23 PM,5,false
+661,semper sapien,Middle Eastern,cheap,bronx,8:21 AM,1,false
+662,sit amet,Indian,medium,bronx,2:48 AM,2,true
+663,nibh,Chinese,expensive,bronx,5:36 AM,5,false
+664,ridiculus mus vivamus,Mexican,expensive,staten_island,2:40 AM,4,false
+665,semper,American,cheap,brooklyn,12:29 AM,4,true
+666,ut,Spanish,medium,staten_island,12:48 PM,5,false
+667,curae mauris viverra,Indian,medium,bronx,11:16 AM,5,true
+668,vestibulum,Vietnamese,medium,queens,9:42 PM,2,true
+669,felis donec semper,Greek,medium,bronx,2:56 AM,1,true
+670,lectus,Mexican,medium,brooklyn,6:00 AM,4,false
+671,nec euismod scelerisque,Caribbean,cheap,queens,7:28 PM,4,true
+672,adipiscing molestie,Vietnamese,cheap,queens,2:27 PM,5,false
+673,primis in faucibus,Japanese,cheap,manhattan,1:28 PM,2,false
+674,mauris eget massa,French,expensive,queens,9:41 AM,3,true
+675,nulla tempus vivamus,American,medium,brooklyn,9:24 AM,3,true
+676,mauris,African,expensive,bronx,10:04 AM,1,true
+677,aliquet maecenas,French,medium,brooklyn,3:00 PM,3,true
+678,nonummy,Greek,medium,manhattan,9:58 AM,4,false
+679,amet nulla quisque,Middle Eastern,expensive,queens,5:10 AM,2,false
+680,lectus aliquam,Korean,expensive,manhattan,12:13 AM,5,true
+681,dapibus at diam,Indian,cheap,staten_island,6:35 PM,3,false
+682,est,Brazilian,expensive,bronx,8:14 AM,4,true
+683,vulputate justo,Indian,expensive,manhattan,3:46 PM,5,true
+684,lacus curabitur,Mexican,medium,brooklyn,2:50 AM,5,true
+685,posuere cubilia curae,Middle Eastern,expensive,brooklyn,11:12 PM,3,false
+686,integer,Brazilian,expensive,brooklyn,6:02 PM,2,true
+687,sed justo pellentesque,African,expensive,manhattan,1:10 PM,5,false
+688,donec posuere,Middle Eastern,expensive,brooklyn,12:09 PM,1,true
+689,duis,American,medium,staten_island,3:27 PM,5,true
+690,ultrices posuere cubilia,Greek,cheap,manhattan,9:52 PM,3,true
+691,ipsum primis in,Fusion,cheap,brooklyn,7:30 AM,3,false
+692,nullam,Middle Eastern,cheap,manhattan,8:32 PM,2,true
+693,duis,Caribbean,cheap,bronx,4:11 AM,1,false
+694,faucibus orci,Middle Eastern,medium,manhattan,4:41 AM,2,false
+695,rutrum,French,cheap,brooklyn,2:25 PM,5,false
+696,nulla pede ullamcorper,Vegan,expensive,brooklyn,4:50 AM,3,true
+697,porttitor pede justo,Mexican,expensive,brooklyn,12:14 AM,4,true
+698,augue vestibulum rutrum,Fusion,cheap,staten_island,3:41 AM,5,true
+699,mi sit,Greek,cheap,manhattan,9:46 PM,4,true
+700,mauris,Greek,cheap,staten_island,11:06 AM,2,true
+701,tortor quis,Greek,expensive,manhattan,11:57 AM,5,true
+702,interdum,French,cheap,manhattan,9:23 AM,2,false
+703,ante ipsum primis,Brazilian,medium,queens,3:45 AM,1,false
+704,blandit mi in,American,cheap,manhattan,11:24 AM,3,false
+705,fusce lacus purus,Vegan,medium,manhattan,12:45 AM,3,false
+706,in faucibus orci,Mexican,cheap,manhattan,2:55 AM,2,true
+707,vel est,African,medium,staten_island,6:04 PM,2,false
+708,purus aliquet at,African,expensive,brooklyn,3:17 AM,5,false
+709,non mattis,Mexican,medium,queens,4:57 PM,3,false
+710,est lacinia nisi,Brazilian,cheap,bronx,2:19 AM,1,false
+711,adipiscing elit proin,Vegetarian,expensive,bronx,5:55 PM,1,false
+712,luctus,Indian,cheap,brooklyn,9:48 PM,5,false
+713,ut rhoncus,Caribbean,medium,manhattan,7:47 AM,5,false
+714,in faucibus,Vegetarian,expensive,staten_island,4:59 AM,4,false
+715,aliquet,Middle Eastern,cheap,manhattan,8:46 AM,5,true
+716,curabitur gravida nisi,Brazilian,cheap,queens,4:24 PM,3,true
+717,at nulla suspendisse,Chinese,expensive,manhattan,10:08 PM,4,true
+718,luctus et ultrices,Vegetarian,cheap,bronx,6:23 PM,2,true
+719,mattis,Vegan,expensive,manhattan,12:29 PM,1,false
+720,phasellus id sapien,African,expensive,staten_island,3:58 PM,4,true
+721,nunc nisl,Vietnamese,medium,brooklyn,2:49 AM,1,false
+722,quisque,Vegan,medium,brooklyn,9:18 PM,4,true
+723,id,Mediterranean,expensive,staten_island,2:17 PM,1,true
+724,etiam,Greek,medium,manhattan,10:43 PM,4,true
+725,suspendisse ornare,Korean,expensive,bronx,2:57 PM,4,false
+726,at,Mediterranean,expensive,manhattan,7:41 PM,5,false
+727,fusce consequat nulla,American,cheap,staten_island,6:35 AM,3,false
+728,eu felis,Chinese,expensive,manhattan,1:40 PM,3,false
+729,odio,Korean,medium,brooklyn,6:52 PM,4,false
+730,proin eu,Chinese,medium,staten_island,3:13 PM,3,false
+731,nec,Vietnamese,expensive,bronx,7:03 AM,3,true
+732,vel est,Chinese,cheap,manhattan,9:42 PM,3,true
+733,erat curabitur gravida,Spanish,medium,bronx,12:11 PM,3,false
+734,semper interdum mauris,French,expensive,manhattan,11:12 PM,3,true
+735,interdum,Vegetarian,medium,brooklyn,6:43 PM,3,true
+736,consequat varius integer,Vegan,expensive,queens,6:34 AM,3,false
+737,sociis natoque,Korean,medium,staten_island,7:17 AM,1,true
+738,vestibulum vestibulum,Mexican,cheap,manhattan,12:26 PM,4,false
+739,sed,Japanese,expensive,manhattan,1:45 AM,2,false
+740,morbi vestibulum,Thai,medium,staten_island,7:42 AM,5,true
+741,vivamus vel,Mediterranean,medium,brooklyn,8:03 PM,3,true
+742,dignissim vestibulum,Greek,expensive,manhattan,5:43 PM,1,true
+743,at,Mexican,cheap,bronx,11:26 PM,5,false
+744,vestibulum,Vegan,expensive,brooklyn,7:30 PM,5,true
+745,convallis tortor risus,Thai,cheap,brooklyn,12:26 AM,2,true
+746,tempus sit,Middle Eastern,medium,brooklyn,1:33 AM,2,true
+747,eleifend,Caribbean,cheap,staten_island,8:57 AM,4,true
+748,sit amet eleifend,Indian,medium,bronx,10:10 AM,3,true
+749,integer,French,cheap,bronx,5:02 AM,1,true
+750,montes nascetur,Mexican,cheap,manhattan,6:15 PM,5,false
+751,varius nulla facilisi,Japanese,medium,brooklyn,11:31 PM,5,true
+752,venenatis lacinia,Vegetarian,expensive,staten_island,5:00 PM,5,false
+753,ante ipsum primis,Greek,medium,staten_island,7:58 AM,5,true
+754,sapien,French,expensive,bronx,6:47 PM,3,false
+755,lacinia,Brazilian,expensive,bronx,11:42 PM,1,false
+756,nullam porttitor lacus,Vegan,cheap,brooklyn,3:21 AM,5,true
+757,diam,Greek,expensive,brooklyn,7:45 AM,5,true
+758,nullam,Thai,expensive,queens,9:47 AM,2,true
+759,et,Chinese,expensive,staten_island,7:22 AM,1,true
+760,quam pharetra,French,cheap,bronx,8:22 AM,3,true
+761,hac habitasse platea,Chinese,expensive,staten_island,11:58 AM,5,false
+762,sapien,Vietnamese,cheap,brooklyn,9:07 PM,4,true
+763,in sapien iaculis,Japanese,cheap,manhattan,12:10 PM,2,true
+764,volutpat,Mexican,expensive,staten_island,1:41 PM,5,true
+765,ac neque,Vietnamese,medium,queens,10:50 AM,2,true
+766,mauris vulputate elementum,Greek,cheap,queens,2:49 PM,5,false
+767,vulputate,Mexican,cheap,staten_island,7:47 AM,4,false
+768,id consequat in,Mexican,medium,queens,11:50 AM,5,false
+769,diam cras pellentesque,Greek,cheap,staten_island,2:00 AM,4,false
+770,at nibh in,Korean,expensive,brooklyn,6:31 AM,3,true
+771,id turpis integer,Italian,medium,staten_island,2:40 PM,5,true
+772,nulla quisque arcu,Greek,cheap,manhattan,4:52 AM,4,true
+773,luctus et ultrices,Vegan,medium,queens,8:25 AM,2,true
+774,ante,African,cheap,manhattan,6:11 PM,5,false
+775,vestibulum aliquet ultrices,Greek,cheap,queens,11:00 PM,2,true
+776,non,Middle Eastern,cheap,bronx,10:28 AM,4,false
+777,nullam varius,Korean,medium,manhattan,12:44 PM,3,false
+778,in,Caribbean,medium,bronx,7:10 PM,4,true
+779,rutrum,Korean,medium,staten_island,3:23 PM,3,true
+780,ut suscipit,Vietnamese,medium,staten_island,7:37 PM,3,false
+781,nonummy,Brazilian,cheap,brooklyn,12:57 AM,4,false
+782,mi integer,Brazilian,expensive,staten_island,3:39 PM,4,true
+783,quis tortor,Caribbean,expensive,bronx,4:15 AM,5,true
+784,nulla suspendisse,Caribbean,cheap,manhattan,12:09 AM,1,false
+785,sapien placerat,Italian,medium,brooklyn,1:10 PM,1,true
+786,nulla,Mediterranean,cheap,staten_island,5:06 PM,2,true
+787,nulla suscipit,African,cheap,staten_island,7:23 PM,2,false
+788,metus,Greek,expensive,bronx,10:43 AM,3,false
+789,quis,Vegan,expensive,bronx,1:48 AM,5,true
+790,vitae quam,Mediterranean,medium,brooklyn,3:17 PM,2,false
+791,tellus in,Vegan,cheap,brooklyn,4:26 PM,3,false
+792,lacus at,Spanish,medium,staten_island,12:58 PM,2,false
+793,sit,American,expensive,queens,9:23 PM,5,false
+794,sit,Mexican,medium,staten_island,7:37 AM,1,false
+795,eget,Mexican,expensive,queens,5:49 PM,5,false
+796,lectus,Indian,cheap,staten_island,11:29 AM,2,false
+797,volutpat,American,cheap,staten_island,2:41 PM,1,false
+798,neque aenean auctor,Korean,expensive,brooklyn,12:57 AM,2,false
+799,non mauris morbi,Fusion,medium,manhattan,3:02 AM,5,false
+800,parturient montes nascetur,Korean,medium,bronx,6:08 AM,5,false
+801,at vulputate vitae,Spanish,cheap,staten_island,4:32 PM,2,false
+802,amet erat nulla,Greek,expensive,staten_island,5:33 PM,4,true
+803,dignissim,Chinese,expensive,brooklyn,10:26 PM,3,false
+804,leo,Mediterranean,medium,queens,10:17 PM,3,true
+805,orci pede venenatis,Brazilian,medium,queens,3:33 PM,1,false
+806,vivamus in felis,Brazilian,cheap,staten_island,4:15 AM,2,false
+807,massa donec dapibus,Fusion,medium,brooklyn,6:38 AM,3,false
+808,neque,Vegan,expensive,brooklyn,1:25 AM,1,true
+809,sagittis sapien,Brazilian,expensive,bronx,10:50 PM,1,false
+810,nec,Vegan,cheap,staten_island,6:46 AM,5,false
+811,in magna,Vietnamese,expensive,bronx,9:50 AM,2,false
+812,mauris,Indian,cheap,manhattan,11:39 AM,3,false
+813,suscipit,African,expensive,queens,7:18 PM,4,false
+814,dictumst maecenas,French,medium,manhattan,2:07 PM,1,false
+815,aliquet massa id,Italian,cheap,bronx,4:10 AM,2,false
+816,sed augue,Italian,expensive,brooklyn,10:50 AM,2,false
+817,accumsan odio curabitur,Mediterranean,medium,queens,8:03 AM,2,false
+818,sapien varius ut,Vegetarian,expensive,manhattan,11:28 PM,3,false
+819,purus eu,Korean,expensive,manhattan,8:25 AM,4,true
+820,diam cras,African,medium,manhattan,8:58 PM,5,false
+821,donec dapibus duis,Mediterranean,expensive,staten_island,7:54 PM,2,false
+822,libero nullam sit,Brazilian,cheap,staten_island,12:09 AM,1,true
+823,etiam faucibus,Vegan,expensive,staten_island,5:31 PM,4,true
+824,montes nascetur ridiculus,Spanish,expensive,manhattan,2:06 AM,1,true
+825,platea,Greek,expensive,bronx,6:00 AM,4,true
+826,volutpat eleifend,Caribbean,medium,queens,3:04 AM,1,false
+827,consectetuer adipiscing elit,Vegan,expensive,brooklyn,9:07 PM,5,false
+828,et ultrices posuere,Mexican,medium,queens,4:10 PM,3,true
+829,quisque porta,Spanish,cheap,manhattan,3:35 AM,2,true
+830,pretium,Mediterranean,medium,bronx,10:23 PM,3,false
+831,vel nisl,Thai,expensive,staten_island,3:35 PM,1,false
+832,vitae consectetuer,Mediterranean,expensive,manhattan,3:32 AM,3,true
+833,nunc viverra,Spanish,expensive,staten_island,6:48 PM,1,false
+834,vivamus,Vegan,medium,brooklyn,4:28 AM,5,false
+835,purus,Thai,expensive,manhattan,5:30 PM,1,true
+836,platea,Mexican,expensive,queens,1:02 AM,4,true
+837,donec quis,Spanish,expensive,brooklyn,4:41 AM,1,false
+838,praesent blandit,Japanese,medium,manhattan,1:38 AM,3,true
+839,suspendisse potenti nullam,Indian,medium,brooklyn,9:39 AM,1,false
+840,habitasse,Middle Eastern,cheap,queens,1:33 PM,3,false
+841,tristique fusce,Vegan,expensive,queens,5:22 AM,3,false
+842,nibh,French,cheap,staten_island,2:24 AM,1,true
+843,in felis eu,Brazilian,medium,queens,4:08 AM,1,true
+844,nascetur,Brazilian,cheap,brooklyn,4:29 PM,2,true
+845,pede morbi,Greek,cheap,manhattan,4:11 PM,1,true
+846,cursus vestibulum,French,expensive,brooklyn,5:50 AM,2,true
+847,maecenas,Chinese,medium,manhattan,5:23 AM,3,true
+848,lacus,Brazilian,expensive,manhattan,9:35 AM,5,false
+849,maecenas leo odio,Vegetarian,cheap,queens,7:56 AM,2,false
+850,consequat lectus,Middle Eastern,expensive,staten_island,5:15 AM,2,false
+851,sed tincidunt eu,Vietnamese,expensive,manhattan,5:14 PM,3,false
+852,est,Greek,expensive,queens,10:35 AM,2,false
+853,vulputate elementum,Japanese,cheap,queens,4:24 AM,5,false
+854,imperdiet,Greek,expensive,bronx,6:28 PM,5,true
+855,suscipit,Caribbean,cheap,staten_island,1:20 AM,5,true
+856,vivamus,Japanese,expensive,queens,1:07 AM,3,false
+857,amet lobortis,Middle Eastern,expensive,brooklyn,10:45 AM,5,false
+858,diam erat fermentum,French,expensive,brooklyn,8:15 AM,2,false
+859,non,French,medium,manhattan,8:51 AM,2,false
+860,id,Chinese,expensive,queens,5:53 PM,3,false
+861,nulla ut,Indian,expensive,manhattan,6:34 AM,2,true
+862,semper,Chinese,cheap,brooklyn,5:55 PM,1,true
+863,semper,African,medium,brooklyn,12:03 PM,4,false
+864,amet erat,Vegetarian,medium,brooklyn,3:02 PM,1,true
+865,nec sem duis,Brazilian,expensive,manhattan,4:02 PM,1,true
+866,etiam vel,Middle Eastern,medium,brooklyn,3:57 PM,3,false
+867,vestibulum quam sapien,Vegetarian,medium,bronx,10:41 AM,3,false
+868,curabitur,Thai,expensive,staten_island,5:41 AM,3,true
+869,in purus eu,Thai,expensive,bronx,11:37 AM,4,true
+870,ac,African,cheap,bronx,6:32 PM,2,false
+871,congue vivamus,Japanese,expensive,brooklyn,9:03 AM,2,false
+872,montes nascetur ridiculus,Korean,cheap,staten_island,6:47 AM,4,true
+873,imperdiet et commodo,Vegetarian,expensive,queens,6:15 AM,3,false
+874,hendrerit at vulputate,Spanish,cheap,staten_island,1:38 PM,1,false
+875,mattis egestas,African,expensive,brooklyn,5:54 PM,1,false
+876,lorem,Fusion,cheap,manhattan,7:05 PM,1,false
+877,iaculis congue,Brazilian,cheap,staten_island,4:06 PM,5,true
+878,pellentesque volutpat dui,Fusion,medium,staten_island,1:01 PM,4,true
+879,ultrices mattis odio,Vegan,medium,manhattan,11:17 PM,5,true
+880,vel dapibus at,Indian,medium,queens,12:07 PM,4,true
+881,lobortis ligula,Vietnamese,medium,manhattan,10:15 PM,5,false
+882,donec ut,African,medium,manhattan,8:25 AM,2,false
+883,massa tempor convallis,Chinese,medium,bronx,3:17 PM,1,true
+884,consequat,Indian,cheap,bronx,10:58 PM,2,false
+885,sollicitudin mi sit,Indian,medium,manhattan,11:54 AM,5,false
+886,non,Mexican,cheap,bronx,4:38 AM,5,false
+887,ante,Japanese,medium,brooklyn,1:29 PM,3,false
+888,iaculis congue vivamus,Middle Eastern,expensive,bronx,8:11 PM,5,true
+889,curabitur convallis,Caribbean,expensive,queens,2:54 AM,4,true
+890,morbi,Thai,cheap,brooklyn,1:20 PM,2,true
+891,sit,Fusion,expensive,bronx,4:02 PM,5,false
+892,integer pede,Greek,cheap,bronx,11:27 PM,5,false
+893,justo aliquam quis,American,medium,staten_island,7:05 AM,1,true
+894,quam suspendisse,Fusion,medium,brooklyn,6:46 PM,1,true
+895,a pede,French,expensive,manhattan,6:31 PM,3,false
+896,dolor sit amet,Mexican,expensive,bronx,1:10 PM,3,true
+897,mauris sit amet,American,expensive,queens,1:21 PM,1,true
+898,at turpis,Korean,cheap,queens,1:57 PM,2,false
+899,at,Spanish,medium,bronx,9:40 PM,3,false
+900,vivamus tortor duis,Vegetarian,medium,staten_island,9:18 AM,2,false
+901,morbi vel,Vegetarian,expensive,staten_island,4:59 PM,1,true
+902,auctor sed tristique,Mexican,cheap,manhattan,11:44 PM,5,true
+903,platea dictumst,Vegetarian,cheap,staten_island,8:43 AM,5,true
+904,augue,African,medium,queens,3:21 AM,2,false
+905,lectus pellentesque,French,medium,brooklyn,7:40 PM,1,true
+906,turpis,Vegan,expensive,bronx,11:35 AM,2,true
+907,et ultrices,Mexican,medium,queens,12:31 PM,3,true
+908,ligula pellentesque,Italian,cheap,manhattan,2:24 AM,1,false
+909,imperdiet et commodo,Middle Eastern,expensive,queens,5:15 PM,2,false
+910,amet,Spanish,expensive,brooklyn,9:15 AM,4,false
+911,consequat metus,French,cheap,staten_island,3:53 PM,4,false
+912,massa id,Spanish,expensive,brooklyn,6:05 AM,2,false
+913,risus,Indian,medium,queens,2:43 AM,4,true
+914,venenatis,Italian,medium,queens,2:46 PM,3,true
+915,sapien,Thai,medium,staten_island,8:55 AM,3,true
+916,interdum venenatis,Caribbean,cheap,brooklyn,8:13 AM,4,false
+917,vitae mattis,Fusion,cheap,brooklyn,8:11 PM,2,false
+918,vitae nisi nam,Mexican,medium,bronx,12:34 AM,5,true
+919,adipiscing elit,American,expensive,queens,5:24 PM,5,false
+920,justo maecenas rhoncus,Korean,medium,queens,8:47 PM,2,true
+921,quam,African,expensive,brooklyn,8:51 AM,3,false
+922,eu sapien cursus,African,medium,brooklyn,12:25 PM,3,true
+923,in blandit,American,cheap,bronx,7:44 AM,4,false
+924,a odio,Chinese,expensive,manhattan,12:05 AM,3,false
+925,pede,Indian,expensive,queens,8:46 AM,1,true
+926,commodo placerat praesent,Korean,medium,bronx,3:33 AM,4,false
+927,orci,French,medium,queens,1:50 AM,2,false
+928,varius,Fusion,expensive,staten_island,7:21 PM,1,false
+929,adipiscing elit proin,Middle Eastern,medium,brooklyn,12:37 AM,1,true
+930,dignissim vestibulum,Vegan,expensive,queens,12:56 PM,3,true
+931,in tempus sit,Indian,medium,staten_island,5:54 PM,5,true
+932,consectetuer eget rutrum,Mexican,medium,manhattan,3:47 PM,1,true
+933,gravida,Fusion,cheap,brooklyn,10:34 PM,4,true
+934,lobortis ligula,Middle Eastern,cheap,brooklyn,3:41 AM,3,true
+935,porttitor id,Vegetarian,medium,staten_island,3:48 AM,1,true
+936,luctus,Greek,expensive,brooklyn,9:31 PM,5,false
+937,nulla,American,medium,manhattan,5:38 AM,1,true
+938,sapien cum,Caribbean,expensive,queens,4:22 PM,1,true
+939,odio condimentum,Vegetarian,expensive,staten_island,6:33 AM,4,true
+940,vestibulum ante,Greek,medium,bronx,3:31 PM,2,false
+941,amet justo morbi,Indian,expensive,staten_island,12:02 AM,3,true
+942,a libero,African,cheap,staten_island,9:17 PM,2,true
+943,velit,French,expensive,staten_island,1:11 AM,4,true
+944,quis,Mediterranean,expensive,staten_island,8:16 PM,4,true
+945,maecenas leo,Chinese,cheap,brooklyn,6:18 PM,1,true
+946,eget orci vehicula,Vegetarian,expensive,bronx,4:01 PM,5,false
+947,accumsan odio curabitur,Chinese,expensive,queens,9:20 PM,1,false
+948,fusce,Indian,medium,queens,12:56 AM,1,true
+949,sapien,Greek,medium,brooklyn,7:59 AM,2,true
+950,rhoncus,Indian,cheap,staten_island,1:00 AM,3,true
+951,at turpis,Vietnamese,cheap,brooklyn,2:06 PM,3,false
+952,tristique,Brazilian,cheap,bronx,10:57 AM,5,false
+953,neque sapien,Japanese,medium,bronx,6:30 PM,4,false
+954,nam nulla integer,Japanese,cheap,brooklyn,10:39 AM,4,true
+955,orci,Mexican,medium,manhattan,8:44 PM,1,false
+956,felis,Mexican,expensive,staten_island,11:31 AM,3,true
+957,lacus,Vietnamese,medium,queens,2:17 PM,3,true
+958,aliquet at feugiat,Italian,cheap,manhattan,5:51 AM,4,true
+959,porttitor lacus at,Japanese,medium,manhattan,12:05 AM,1,true
+960,enim lorem,Spanish,expensive,manhattan,3:34 AM,4,false
+961,ullamcorper purus sit,Italian,expensive,bronx,1:37 PM,3,true
+962,tempor turpis nec,Spanish,expensive,brooklyn,3:29 AM,1,true
+963,sapien in sapien,Spanish,expensive,queens,9:29 AM,3,false
+964,in,Caribbean,medium,queens,3:26 PM,2,false
+965,id consequat,Mexican,expensive,queens,9:03 PM,4,true
+966,consequat lectus in,Thai,medium,queens,8:15 AM,5,false
+967,platea,Brazilian,cheap,manhattan,7:20 PM,1,true
+968,quam,Chinese,medium,bronx,9:44 PM,4,false
+969,turpis,Caribbean,expensive,brooklyn,7:30 PM,5,false
+970,porttitor,Thai,expensive,staten_island,7:19 PM,5,true
+971,ante,Thai,medium,staten_island,3:50 PM,3,false
+972,platea dictumst aliquam,African,expensive,bronx,7:06 AM,2,false
+973,sem,Vietnamese,cheap,staten_island,9:11 PM,5,true
+974,tristique,Indian,medium,brooklyn,6:27 AM,5,false
+975,dui vel sem,Spanish,expensive,manhattan,10:00 PM,4,true
+976,odio odio elementum,Vegetarian,expensive,brooklyn,5:01 PM,2,true
+977,nec molestie,Japanese,expensive,bronx,11:47 PM,4,true
+978,viverra eget congue,Spanish,cheap,bronx,10:06 AM,5,false
+979,ipsum,Chinese,medium,staten_island,10:18 AM,5,false
+980,volutpat,Japanese,medium,bronx,12:17 PM,1,true
+981,massa,Italian,cheap,manhattan,8:19 PM,2,false
+982,cubilia curae mauris,Spanish,expensive,brooklyn,11:35 AM,1,true
+983,quis orci,Caribbean,expensive,manhattan,3:39 AM,2,true
+984,quam,Vegan,expensive,bronx,4:05 PM,4,false
+985,nunc donec quis,Mexican,medium,queens,6:48 AM,2,false
+986,donec posuere,Indian,cheap,bronx,6:31 AM,5,false
+987,eget semper rutrum,Spanish,medium,manhattan,4:33 PM,3,true
+988,libero rutrum ac,Vietnamese,medium,queens,5:14 PM,1,true
+989,habitasse,Thai,expensive,staten_island,9:22 AM,4,true
+990,sapien urna,Caribbean,medium,brooklyn,10:39 PM,2,false
+991,sed nisl nunc,Korean,expensive,staten_island,1:17 AM,2,false
+992,gravida nisi,African,cheap,queens,4:29 AM,2,false
+993,neque aenean auctor,Italian,medium,manhattan,6:32 AM,4,true
+994,primis in,Mexican,expensive,brooklyn,7:13 PM,2,false
+995,nam,French,cheap,manhattan,7:47 PM,4,true
+996,lacinia sapien quis,Japanese,expensive,queens,10:49 AM,4,false
+997,sem mauris,French,medium,queens,12:43 AM,1,true
+998,tortor id nulla,Korean,expensive,staten_island,10:43 PM,3,true
+999,mi,American,cheap,brooklyn,5:43 PM,1,true
+1000,neque,Middle Eastern,cheap,staten_island,5:10 PM,1,false
